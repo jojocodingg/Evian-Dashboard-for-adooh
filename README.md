@@ -23,8 +23,11 @@ Water across the Paris bus network (January 2017).
 - Python — data analysis and preprocessing
 
 ## Data
-- EVIAN_res4.csv — audience and impression data
-- Evian_playback.csv — ad playback logs
+- `EVIAN_res4.csv` — audience and impression data (primary dataset)
+
+Note: Playback data (110,400 ad plays across 15 days) was used 
+for the Impressions Per Play KPI but is excluded from this 
+repository due to file size constraints.
 
 ## How to Use
 1. Download the .pbix file
@@ -33,3 +36,5 @@ Water across the Paris bus network (January 2017).
 
 ## Team
 Team 5 — SUTD DBA Project
+
+
