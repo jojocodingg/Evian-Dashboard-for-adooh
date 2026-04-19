@@ -37,4 +37,18 @@ repository due to file size constraints.
 ## Team
 Team 5 — SUTD DBA Project
 
+## Screenshots
+
+### Executive Overview
+![Executive Overview](images/executive_overview.png)
+
+### Customer Analysis
+![Customer Analysis](images/customer_analysis.png)
+
+### Predictive Model
+![Predictive Model](images/predictive_model.png)
+
+### Geographic Analysis
+![Geographic Analysis](images/geographic_analysis.png)
+
 
